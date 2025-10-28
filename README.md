@@ -1,10 +1,11 @@
-🛒 SuperStore Sales Dashboard – Power BI
-📊 Project Overview
+🛒 **SuperStore Sales Dashboard – Power BI**
+
+📊 **Project Overview**
 
 The SuperStore Sales Dashboard is an interactive Power BI project designed to analyze and visualize key sales metrics, profits, and trends from a retail dataset.
 It helps stakeholders gain insights into performance across regions, categories, and time periods — enabling data-driven business decisions.
 
-🎯 Objectives
+🎯 **Objectives**
 
 Analyze sales, profit, and orders across different product categories.
 
@@ -14,7 +15,7 @@ Visualize sales trends and forecasts to support future planning.
 
 Evaluate shipping modes and payment methods for optimization opportunities.
 
-📈 Key Insights
+📈 **Key Insights**
 
 Total Sales: 1.6M
 
@@ -24,7 +25,7 @@ Total Profit: 175K
 
 Average Ship Days: 4
 
-Breakdown:
+**Breakdown:**
 
 Top Categories: Technology, Office Supplies, Furniture
 
@@ -38,7 +39,7 @@ Sales by Payment Mode: COD (43%), Online (35%), Cards (22%)
 
 Forecast: 15-day sales projection indicating steady growth trends
 
-🗺️ Dashboard Features
+🗺️ **Dashboard Features**
 
 Interactive filters and slicers for category, region, and time period.
 
@@ -50,7 +51,7 @@ Sales Forecasting using Power BI’s analytics tools.
 
 KPIs and Cards highlighting core business metrics.
 
-🛠️ Tools & Technologies
+🛠️ **Tools & Technologies**
 
 Power BI Desktop
 
@@ -60,13 +61,7 @@ Data Processing: Power Query Editor
 
 Visuals: Cards, Bar Charts, Line Charts, Maps, and Forecast Models
 
-📂 File Information
-
-Superstore_sales_dashboard.pdf – Exported report view of the Power BI dashboard.
-
-Power BI .pbix file (optional if included) contains the interactive version of the report.
-
-🚀 How to Use
+🚀 **How to Use**
 
 Open the .pbix file in Power BI Desktop (if available).
 
@@ -76,7 +71,7 @@ Explore trends and insights interactively.
 
 Export visuals or reports as needed.
 
-🧠 Insights for Decision Making
+🧠 **Insights for Decision Making**
 
 Focus on high-profit categories and states for business growth.
 
